@@ -193,7 +193,7 @@ npm run lint               # รัน ESLint
 ## 📞 ติดต่อ
 
 หากมีคำถามหรือต้องการความช่วยเหลือ กรุณาติดต่อ:
-- Email: contact@example.com
+- Email: setthapong.thansirisuntorn@gmail.com
 - Website: [https://gocart-rust.vercel.app/](https://gocart-rust.vercel.app/)
 
 ---
